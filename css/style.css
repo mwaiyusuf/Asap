@@ -1,0 +1,65 @@
+html,
+body,
+.container{
+    height: 100%
+}
+body{
+    
+    background: url("/img/element5-digital-538883.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    
+}
+
+h1{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 150px;
+}
+h2{
+    font-size: 55px;
+    color:turquoise;
+    text-align: center;
+    margin-bottom: 150px;
+    
+}
+p{
+    font-family: 'Zeyada', cursive;
+    font-size: 60px;
+    color: black;
+    text text-align: center;
+    margin-top: 150px;
+}
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { h1{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 150px;
+
+    } }
+p{
+    font-family: 'Zeyada', cursive;
+    font-size: 40px;
+    color: black;
+    text text-align: center;
+    margin-top: 150px; 
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
