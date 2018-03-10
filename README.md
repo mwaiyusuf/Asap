@@ -1,2 +1,2 @@
 # Asap
-vry fast
+navbar and text alignment
