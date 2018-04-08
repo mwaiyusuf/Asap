@@ -6,7 +6,7 @@ css
 javascript
 # libraries.
 animate.css
-# fonts
+# fonts.
 googlefonts
 # images
 https://unsplash.com
