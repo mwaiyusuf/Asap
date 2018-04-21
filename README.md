@@ -8,7 +8,7 @@ javascript.
 animate.css
 # fonts.
 googlefonts
-# images
+# images.
 https://unsplash.com
 
 
