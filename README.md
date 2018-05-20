@@ -1,5 +1,5 @@
 # Hubspot.
-A site containing a navbar and a love quote having a background image.furthermore it has JAva-script,coding about
+A site containing a navbar and a love quote having a background image.furthermore it has JAva-script,coding about joining names
 # Technology used.
 html5.
 css. 
