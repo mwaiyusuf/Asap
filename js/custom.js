@@ -11,4 +11,4 @@ var (i=o; i<Text.length; i++){
 {
     text=text.slice(0,1) + "the second world war" + text.slice(i + 12);
 }
-//}
+}
