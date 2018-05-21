@@ -8,7 +8,7 @@
 // }
 var (i=o; i<Text.length; i++){
     if(text.slice(i,i+12)=== "world war 2")
-//{
+{
 //    text=text.slice(0,1) + "the second world war" + text.slice(i + 12);
 //}
 //}
