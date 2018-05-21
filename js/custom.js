@@ -6,3 +6,4 @@
 //      fullNames.push(firstNames[i] + lastNames[j]);
 //    }
 // }
+var (i=o;)
