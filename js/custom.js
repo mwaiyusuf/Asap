@@ -12,3 +12,6 @@
 //    text=text.slice(0,1) + "the second world war" + text.slice(i + 12);
 //}
 //}
+function asus(){
+    
+}
