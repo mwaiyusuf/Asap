@@ -14,4 +14,5 @@
 //}
 function asus(){
     var color=prompt("Enter your favoorite color");
+    if()
 }
