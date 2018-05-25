@@ -14,5 +14,5 @@
 //}
 function asus(){
     var color=prompt("Enter your favoorite color");
-    if(color=blue)
+    if(color=blue){}
 }
