@@ -17,4 +17,7 @@ function asus(){
     if(color=blue){
         alert("This color is for crazy people");
     }
+    if(color=yellow){
+        alert("this color is for Akamba community");
+    }
 };
