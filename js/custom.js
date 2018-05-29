@@ -20,4 +20,7 @@ function asus(){
     if(color=yellow){
         alert("this color is for Akamba community");
     }
+    if(color=red){
+        alert("this color ")
+    }
 };
