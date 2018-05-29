@@ -21,6 +21,6 @@ function asus(){
         alert("this color is for Akamba community");
     }
     if(color=red){
-        alert("this color is very dangerous,it can get you kill during thunder")
+        alert("this color is very dangerous,it can get you kill during thunder");
     }
 };
