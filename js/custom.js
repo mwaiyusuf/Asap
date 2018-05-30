@@ -24,4 +24,4 @@ function asus(){
         alert("this color is very dangerous,it can get you kill during thunder");
     }
 }
-as
+asus
