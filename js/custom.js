@@ -15,7 +15,7 @@
 function asus(){
     var color=prompt("Enter your favourite color");
     if(color=blue){
-        alert("This color is for crazy and idiots people");
+        alert("This color is for crazy and idiots people,");
     }
     if(color=yellow){
         alert("this color is for Akamba community");
