@@ -13,7 +13,7 @@
 //}
 //}
 function asus(){
-    var color=prompt("Enter your favoorite color");
+    var color=prompt("Enter your favourite color");
     if(color=blue){
         alert("This color is for crazy and idiots people");
     }
