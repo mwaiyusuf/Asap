@@ -18,7 +18,7 @@ function asus(){
         alert("This color is for crazy and idiots people,");
     }
     if(color=yellow){
-        alert("this color is for Akamba community");
+        alert("this color is for Akamba community.");
     }
     if(color=red){
         alert("this color is very dangerous,it can get you kill during thunder");
