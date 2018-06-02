@@ -8,3 +8,4 @@ function cop(){
 //        }
 //    }
 //}
+    var number=prompt("Enter five numbers");
