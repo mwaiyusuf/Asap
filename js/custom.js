@@ -12,16 +12,16 @@
 //    text=text.slice(0,1) + "the second world war" + text.slice(i + 12);
 //}
 //}
-function asus(){
-    var color=prompt("Enter your favourite color");
-    if(color=blue){
-        alert("This color is for crazy and idiots people,");
-    }
-    if(color=yellow){
-        alert("this color is for Akamba community.");
-    }
-    if(color=red){
-        alert("this color is very dangerous,it can get you kill during thunder");
-    }
-}
-asus()
+//function asus(){
+//    var color=prompt("Enter your favourite color");
+//    if(color=blue){
+//        alert("This color is for crazy and idiots people,");
+//    }
+//    if(color=yellow){
+//        alert("this color is for Akamba community.");
+//    }
+//    if(color=red){
+//        alert("this color is very dangerous,it can get you kill during thunder");
+//    }
+//}
+//asus()

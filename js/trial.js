@@ -1,6 +1,6 @@
-function cop(){
-    var firstNames=["mohammed","yusuf","ali","zeid","faruq","salma"];
-    var lastNames=["mwai","kamau","zubeir","abdi","alio","ayub"];
+//function cop(){
+//    var firstNames=["mohammed","yusuf","ali","zeid","faruq","salma"];
+//    var lastNames=["mwai","kamau","zubeir","abdi","alio","ayub"];
 //    var fullNames=[];
 //    for(i=0;i<firstNames.length;i++){
 //        for(j=0;j<lastNames.length;j++){
@@ -8,4 +8,10 @@ function cop(){
 //        }
 //    }
 //}
-    var number=prompt("Enter five numbers");
+function large(){
+   var number=prompt("Enter five numbers");
+    for(i=0; i<=5; i++){
+        
+    }  
+}
+   
