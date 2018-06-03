@@ -6,7 +6,7 @@ function cop(){
         for(j=0;j<lastNames.length;j++){
             fullNames.push(firstNames[i] + lastNames[j]);
         }
-cop
+cop()
 //function large(){
 //    var x=[]
 //   
