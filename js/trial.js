@@ -8,22 +8,22 @@
 //        }
 //    }
 //}
-function large(){
-    var x=[]
-   
-    for(i=0; i<5; i++){
-        var num=x.push(prompt("enter five numbers"));
-        
-        
-    }
-    var k=0;
-    for(j=0; j<x.length; j++){
-        if(x[j]>k){
-            k=x[j];
-        }
-    }
-    alert("the largest number is " + k);
-    
-      
-}
-   large()
+//function large(){
+//    var x=[]
+//   
+//    for(i=0; i<5; i++){
+//        var num=x.push(prompt("enter five numbers"));
+//        
+//        
+//    }
+//    var k=0;
+//    for(j=0; j<x.length; j++){
+//        if(x[j]>k){
+//            k=x[j];
+//        }
+//    }
+//    alert("the largest number is " + k);
+//    
+//      
+//}
+//   large()
