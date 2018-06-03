@@ -4,8 +4,8 @@ function cop(){
     var fullNames=[];
     for(i=0;i<firstNames.length;i++){
         for(j=0;j<lastNames.length;j++){
-//            fullNames.push(firstNames[i] + lastNames[j]);
-//        }
+            fullNames.push(firstNames[i] + lastNames[j]);
+        }
 //    }
 //}
 //function large(){
